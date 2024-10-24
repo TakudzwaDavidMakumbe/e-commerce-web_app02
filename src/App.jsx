@@ -6,6 +6,9 @@ import FeatureSectionFruits from './components/FeatureSectionFruits'
 import FeatureSectionBreakfast from './components/FeatureSectionBreakfast'
 import BannerSection from './components/Banner'
 import BlogSection from './components/BlogSection'
+import NewsLetter from './components/NewsLetter'
+import FeatureSection from './components/FeatureSection'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -21,6 +24,9 @@ function App() {
         <FeatureSectionBreakfast/>
         <BannerSection/>
         <BlogSection/>
+        <NewsLetter/>
+        <FeatureSection/>
+        <Footer/>
       </main>
     </>
   )
